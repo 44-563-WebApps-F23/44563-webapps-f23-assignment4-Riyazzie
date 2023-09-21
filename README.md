@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
  
-Hosted at <a href=" https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-Riyazzie/">Riyaz github</a>
+Hosted at <a href="https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-Riyazzie.git">Riyaz github</a>
